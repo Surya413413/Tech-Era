@@ -1,0 +1,19 @@
+.courseContainer {
+  height: 100vh;
+  background-color: white;
+  background-size: cover;
+}
+.successContainer {
+  height: 50vh;
+}
+.nav-Container {
+  background-color: #f1f5f9;
+  height: 20%;
+  display: flex;
+  align-items: center;
+}
+.logo-image {
+  width: 100px;
+  height: 50px;
+  margin-left: 30px;
+}
